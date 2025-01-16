@@ -34,7 +34,7 @@ function Header() {
           <Link to="/catalog">
             <p className="hover:border-b-2">Products</p>
           </Link>
-          <a href="https://github.com/adityananu/coffeeshop" target="_blank" className="hover:border-b-2">
+          <a href="https://github.com/sunil32773/coffee_main" target="_blank" className="hover:border-b-2">
             Github
           </a>
           <Link to="/cart">
