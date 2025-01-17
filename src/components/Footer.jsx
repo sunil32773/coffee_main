@@ -12,7 +12,7 @@ function Footer() {
               Stay Caffeinated!
             </p>
             <hr />
-            <p className="text-md mt-5">Baked 😁 by Aditya </p>
+            <p className="text-md mt-5">Baked 😁 by Sunil </p>
             <p className="text-md">
               Portfolio:{" "}
               <a
