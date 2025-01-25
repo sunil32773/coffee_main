@@ -16,7 +16,7 @@ function Footer() {
             <p className="text-md">
               Portfolio:{" "}
               <a
-                href="https://aditya-fawn.vercel.app/"
+                href=""
                 target="_blank"
                 className="text-blue-200 hover:underline"
               >
